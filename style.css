@@ -1,0 +1,139 @@
+body{
+    width: 100%;
+    height: 500px;
+}
+.header{
+    width: 60%;
+    height: 60px;
+    background: #07c3f7;
+    color: rgb(240, 145, 20);
+    text-align: center;
+    /* margin: 10px; */
+}
+.ab{
+    width: 60%;
+    /* height: 50px; */
+    background: #4fe741;
+    /* margin: 10px; */
+}
+.bc{
+    width: 60%;
+    /* height: 50px; */
+    background: #5bef56;
+    /* margin: 10px; */
+}
+.cd{
+    width: 60%;
+    /* height: 50px; */
+    background: #62ef77;
+    /* margin: 10px; */
+}
+.de{
+    width: 60%;
+    /* height: 50px; */
+    background: #71e873;
+    /* margin: 10px; */
+}
+.ef{
+    width: 60%;
+    /* height: 50px; */
+    background: #7fe68d;
+    /* margin: 10px; */
+}
+.fg{
+    width: 60%;
+    /* height: 50px; */
+    background: #8eea93;
+    /* margin: 10px; */
+}
+.gh{
+    width: 60%;
+    /* height: 50px; */
+    background: #a2e6ad;
+    /* margin: 10px; */
+}
+.hi{
+    width: 60%;
+    /* height: 50px; */
+    background: #a3d9ae;
+    /* margin: 10px; */
+}
+.ij{
+    width: 60%;
+    /* height: 50px; */
+    background: #aed9ab;
+    /* margin: 10px; */
+}
+.jl{
+    width: 60%;
+    /* height: 50px; */
+    background: #b2dcbe;
+    /* margin: 10px; */
+}
+.kl{
+    width: 60%;
+    /* height: 50px; */
+    background: #736d04;
+    /* margin: 10px; */
+    color: #ffffff;
+}
+.lm{
+    width: 60%;
+    /* height: 50px; */
+    background: #eae8a6;
+    /* margin: 10px; */
+}
+.mn{
+    width: 60%;
+    /* height: 50px; */
+    background: #f3f172;
+    /* margin: 10px; */
+}
+.no{
+    width: 60%;
+    /* height: 50px; */
+    background: #e0e97b;
+    /* margin: 10px; */
+}
+.op{
+    width: 60%;
+    /* height: 50px; */
+    background: #e8e356;
+    /* margin: 10px; */
+}
+.pq{
+    width: 60%;
+    /* height: 50px; */
+    background: #def03c;
+    /* margin: 10px; */
+}
+.qr{
+    width: 60%;
+    /* height: 50px; */
+    background: #f8e922;
+    /* margin: 10px; */
+}
+.rs{
+    width: 60%;
+    /* height: 50px; */
+    background: #efe342;
+    /* margin: 10px; */
+}
+.tu{
+    width: 60%;
+    /* height: 50px; */
+    background: #eedd20;
+    /* margin: 10px; */
+}
+.vw{
+    width: 60%;
+    /* height: 50px; */
+    background: #f5dd0b;
+    /* margin: 10px; */
+}
+.xyz{
+    width: 60%;
+    /* height: 50px; */
+    background: #f4e003;
+    /* margin: 10px; */
+}
